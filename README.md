@@ -12,8 +12,8 @@
 
 <h3>🛠 技术栈</h3>
 
-- 💻 &nbsp; Go | Dart | Java | Rust | JavaScript
-- 🌐 &nbsp; Spring | Gin | flutter | Vue 
+- 💻 &nbsp; Go | Java | Rust | JavaScript
+- 🌐 &nbsp; Spring | Gin | Vue 
 - 🛢 &nbsp; MySQL | Redis | Elasticsearch
 - 🔧 &nbsp; IntelliJ Idea | Git
 
